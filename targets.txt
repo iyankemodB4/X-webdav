@@ -66,3 +66,5 @@ http://ns1.magazam.net
 http://ns1.vfbayi.com
 http://ns1.evdeiste.com
 http://ptdel.com
+https://sky-pt-panel.panelku.us.kg/auth/login
+
